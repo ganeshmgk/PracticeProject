@@ -7,5 +7,7 @@ public class JavaScriptExecutor {
 		WebDriver driver = new InternetExplorerDriver();
 		//driver.get("https://cosmocode.io/");
 		driver.get("http:www.demo.automationtesting.in");
+		
+		System.out.println("Adding new code to this branch");
 	}
 }
